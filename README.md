@@ -5,7 +5,7 @@
 
 ## App Info
 
-This app is inspired by Traversy Media. This version implements the core functionality similar to DevConnect 2.0.
+This is a fullstack application where users can sign up, log in, update their profiles and portfolio. 
 
 ### Credit
 
